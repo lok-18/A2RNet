@@ -6,7 +6,7 @@
 
 ### A2RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion
 in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) 🔥🔥🔥   
-by [Jiawei Li](https://scholar.google.com.hk/citations?user=xWy8RZEAAAAJ&hl=zh-CN), [Howei Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=cDidt64AAAAJ), [Jiansheng Chen](https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&hl=zh-CN&oi=ao), [Xinlong Ding](https://scholar.google.com.hk/citations?user=JY9oXVIAAAAJ&hl=zh-CN&oi=ao), Jinlong Wang, [Jinyuan Liu](https://scholar.google.com.hk/citations?user=a1xipwYAAAAJ&hl=zh-CN&oi=ao), [Bochao Zou](https://scholar.google.com.hk/citations?user=Cb29A3cAAAAJ&hl=zh-CN&oi=ao) and [Huimin Ma](https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&hl=zh-CN&oi=ao) 
+by [Jiawei Li](https://scholar.google.com.hk/citations?user=xWy8RZEAAAAJ&hl=zh-CN), [Hongwei Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=cDidt64AAAAJ), [Jiansheng Chen](https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&hl=zh-CN&oi=ao), [Xinlong Ding](https://scholar.google.com.hk/citations?user=JY9oXVIAAAAJ&hl=zh-CN&oi=ao), Jinlong Wang, [Jinyuan Liu](https://scholar.google.com.hk/citations?user=a1xipwYAAAAJ&hl=zh-CN&oi=ao), [Bochao Zou](https://scholar.google.com.hk/citations?user=Cb29A3cAAAAJ&hl=zh-CN&oi=ao) and [Huimin Ma](https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&hl=zh-CN&oi=ao) 
 - [[*AAAI*]]()
 - [[*arXiv*]](https://arxiv.org/abs/2412.09954)
 - [[*Supplementary*]](https://github.com/lok-18/A2RNet/blob/main/supp/Supplementary.pdf)
