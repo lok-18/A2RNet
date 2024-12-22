@@ -66,7 +66,7 @@ def main(args):
  
     ir_path = img_path + '/ir/'
     vis_path = img_path + '/vis/'
-    gt_path = "./test_images/gt"
+    gt_path = "./test_images/pseudo_label"
 
 
     test_dataset = fusion_dataset_gt(ir_path=ir_path, vis_path=vis_path, gt_path=gt_path)
