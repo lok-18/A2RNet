@@ -87,12 +87,15 @@ by [Jiawei Li](https://scholar.google.com.hk/citations?user=xWy8RZEAAAAJ&hl=zh-C
 >
 ### 🗒️*Citation*
 > ```
-> @article{li2024a2rnet,
->   title={A2RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion},
->   author={Li, Jiawei and Yu, Hongwei and Chen, Jiansheng and Ding, Xinlong and Wang, Jinlong and Liu, Jinyuan and Zou, Bochao and Ma, Huimin},
->   journal={arXiv preprint arXiv:2412.09954},
->   year={2024}
->}
+> @inproceedings{li2025a2rnet,
+>  title={A$^2$RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion},
+>  author={Li, Jiawei and Yu, Hongwei and Chen, Jiansheng and Ding, Xinlong and Wang, Jinlong and Liu, Jinyuan and Zou, Bochao and Ma, Huimin},
+>  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+>  volume={39},
+>  number={5},
+>  pages={4770--4778},
+>  year={2025}
+> }
 > ```
 >
 ### 🧩*Realted works*
